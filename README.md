@@ -13,6 +13,6 @@
 - run init.py (Python 3)
 
 
--- Don't work now:
+- Don't work now:
 1) aws
-2) auto renew serts
+2) auto renew certs
