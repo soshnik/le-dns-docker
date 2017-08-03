@@ -1,0 +1,7 @@
+{
+  "basedir": "docker",
+  "api_type": "selectel",
+  "api_key": "You api key",
+  "email": "email@example.com",
+  "domain": "example.com"
+}
