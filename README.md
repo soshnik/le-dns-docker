@@ -11,3 +11,8 @@
     - set domain for docker registry service 
 
 - run init.py (Python 3)
+
+
+-- Don't work now:
+1) aws
+2) auto renew serts
